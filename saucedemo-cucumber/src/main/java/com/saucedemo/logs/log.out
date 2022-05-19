@@ -1,0 +1,68 @@
+2022-05-19 14:05:389 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:96 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:276 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:498 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:994 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:593 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:132 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:802 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:183 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:162 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:162 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:769 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:137 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:513 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:701 INFO  CheckOutPage :48 - Enter first name Rojolu last name Pona zip code 100-200
+2022-05-19 15:05:377 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:912 INFO  CartPage :25 - Clicking On Checkout button [[ChromeDriver: chrome on WINDOWS (ef0d90b2bb3f56a5fb0206bcfbc61423)] -> xpath: //button[@id='checkout']]
+2022-05-19 15:05:235 INFO  CheckOutPage :48 - Enter first name Rojkolu last name Pona zip code 100-200Rojkolu
+2022-05-19 15:05:344 INFO  CheckOutPage :53 - Clicking On Continue button [[ChromeDriver: chrome on WINDOWS (ef0d90b2bb3f56a5fb0206bcfbc61423)] -> xpath: //input[@id='continue']]
+2022-05-19 15:05:467 INFO  CheckOutComplete :24 - Getting thank you text [[ChromeDriver: chrome on WINDOWS (ef0d90b2bb3f56a5fb0206bcfbc61423)] -> xpath: //div[@id='checkout_complete_container']]
+2022-05-19 17:05:925 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:268 INFO  HomePage :43 - Enter user name standard_user and password secret_sauce standard_user secret_sauce
+2022-05-19 17:05:12 INFO  HomePage :38 - Clicking On LoginButton button [[ChromeDriver: chrome on WINDOWS (09b307343843351acedeff948a4acd09)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:407 INFO  InventoryPage :36 - Selecting high to low price [[ChromeDriver: chrome on WINDOWS (09b307343843351acedeff948a4acd09)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 17:05:333 INFO  InventoryPage :41 - Clicking On Cheapest Product [[ChromeDriver: chrome on WINDOWS (09b307343843351acedeff948a4acd09)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-19 17:05:528 INFO  InventoryPage :45 - Clicking On Costliest Product [[ChromeDriver: chrome on WINDOWS (09b307343843351acedeff948a4acd09)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-19 17:05:135 INFO  InventoryPage :49 - Clicking On Shipping cart [[ChromeDriver: chrome on WINDOWS (09b307343843351acedeff948a4acd09)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-19 17:05:304 INFO  CartPage :25 - Clicking On Checkout button [[ChromeDriver: chrome on WINDOWS (09b307343843351acedeff948a4acd09)] -> xpath: //button[@id='checkout']]
+2022-05-19 17:05:907 INFO  CheckOutPage :48 - Enter first name Ronaldo last name Messi zip code 100-200Ronaldo
+2022-05-19 17:05:75 INFO  CheckOutPage :53 - Clicking On Continue button [[ChromeDriver: chrome on WINDOWS (09b307343843351acedeff948a4acd09)] -> xpath: //input[@id='continue']]
+2022-05-19 17:05:212 INFO  CheckOutPage2 :25 - Clicking On finish button [[ChromeDriver: chrome on WINDOWS (09b307343843351acedeff948a4acd09)] -> xpath: //button[@id='finish']]
+2022-05-19 17:05:280 INFO  CheckOutComplete :24 - Getting thank you text [[ChromeDriver: chrome on WINDOWS (09b307343843351acedeff948a4acd09)] -> xpath: //div[@id='checkout_complete_container']]
+2022-05-19 17:05:328 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:248 INFO  HomePage :43 - Enter user name standard_user and password secret_sauce standard_user secret_sauce
+2022-05-19 17:05:528 INFO  HomePage :38 - Clicking On LoginButton button [[ChromeDriver: chrome on WINDOWS (104bb94eabe5ea3185abbb3c23a9eb60)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:727 INFO  InventoryPage :36 - Selecting high to low price [[ChromeDriver: chrome on WINDOWS (104bb94eabe5ea3185abbb3c23a9eb60)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 17:05:287 INFO  InventoryPage :41 - Clicking On Cheapest Product [[ChromeDriver: chrome on WINDOWS (104bb94eabe5ea3185abbb3c23a9eb60)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-19 17:05:541 INFO  InventoryPage :45 - Clicking On Costliest Product [[ChromeDriver: chrome on WINDOWS (104bb94eabe5ea3185abbb3c23a9eb60)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-19 17:05:904 INFO  InventoryPage :49 - Clicking On Shipping cart [[ChromeDriver: chrome on WINDOWS (104bb94eabe5ea3185abbb3c23a9eb60)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-19 17:05:135 INFO  CartPage :25 - Clicking On Checkout button [[ChromeDriver: chrome on WINDOWS (104bb94eabe5ea3185abbb3c23a9eb60)] -> xpath: //button[@id='checkout']]
+2022-05-19 17:05:730 INFO  CheckOutPage :48 - Enter first name Ronaaaldo last name Messi zip code 100-200Ronaaaldo
+2022-05-19 17:05:977 INFO  CheckOutPage :53 - Clicking On Continue button [[ChromeDriver: chrome on WINDOWS (104bb94eabe5ea3185abbb3c23a9eb60)] -> xpath: //input[@id='continue']]
+2022-05-19 17:05:208 INFO  CheckOutPage2 :25 - Clicking On finish button [[ChromeDriver: chrome on WINDOWS (104bb94eabe5ea3185abbb3c23a9eb60)] -> xpath: //button[@id='finish']]
+2022-05-19 17:05:284 INFO  CheckOutComplete :24 - Getting thank you text [[ChromeDriver: chrome on WINDOWS (104bb94eabe5ea3185abbb3c23a9eb60)] -> xpath: //div[@id='checkout_complete_container']]
+2022-05-19 17:05:725 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:664 INFO  HomePage :43 - Enter user name standard_user and password secret_sauce standard_user secret_sauce
+2022-05-19 17:05:923 INFO  HomePage :38 - Clicking On LoginButton button [[ChromeDriver: chrome on WINDOWS (43a9be3cd07bbfe074171d5b423c515d)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:111 INFO  InventoryPage :36 - Selecting high to low price [[ChromeDriver: chrome on WINDOWS (43a9be3cd07bbfe074171d5b423c515d)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 17:05:724 INFO  InventoryPage :41 - Clicking On Cheapest Product [[ChromeDriver: chrome on WINDOWS (43a9be3cd07bbfe074171d5b423c515d)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-19 17:05:913 INFO  InventoryPage :45 - Clicking On Costliest Product [[ChromeDriver: chrome on WINDOWS (43a9be3cd07bbfe074171d5b423c515d)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-19 17:05:173 INFO  InventoryPage :49 - Clicking On Shipping cart [[ChromeDriver: chrome on WINDOWS (43a9be3cd07bbfe074171d5b423c515d)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-19 17:05:321 INFO  CartPage :25 - Clicking On Checkout button [[ChromeDriver: chrome on WINDOWS (43a9be3cd07bbfe074171d5b423c515d)] -> xpath: //button[@id='checkout']]
+2022-05-19 17:05:848 INFO  CheckOutPage :48 - Enter first name Roooldo last name Messi zip code 100-200Roooldo
+2022-05-19 17:05:63 INFO  CheckOutPage :53 - Clicking On Continue button [[ChromeDriver: chrome on WINDOWS (43a9be3cd07bbfe074171d5b423c515d)] -> xpath: //input[@id='continue']]
+2022-05-19 17:05:229 INFO  CheckOutPage2 :25 - Clicking On finish button [[ChromeDriver: chrome on WINDOWS (43a9be3cd07bbfe074171d5b423c515d)] -> xpath: //button[@id='finish']]
+2022-05-19 17:05:332 INFO  CheckOutComplete :24 - Getting thank you text [[ChromeDriver: chrome on WINDOWS (43a9be3cd07bbfe074171d5b423c515d)] -> xpath: //div[@id='checkout_complete_container']]
+2022-05-19 23:05:688 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 23:05:940 INFO  HomePage :43 - Enter user name standard_user and password secret_sauce standard_user secret_sauce
+2022-05-19 23:05:576 INFO  HomePage :38 - Clicking On LoginButton button [[ChromeDriver: chrome on WINDOWS (113426997b13368d135dc4a57f5f8bec)] -> xpath: //input[@id='login-button']]
+2022-05-19 23:05:931 INFO  InventoryPage :36 - Selecting high to low price [[ChromeDriver: chrome on WINDOWS (113426997b13368d135dc4a57f5f8bec)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 23:05:881 INFO  InventoryPage :41 - Clicking On Cheapest Product [[ChromeDriver: chrome on WINDOWS (113426997b13368d135dc4a57f5f8bec)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-19 23:05:67 INFO  InventoryPage :45 - Clicking On Costliest Product [[ChromeDriver: chrome on WINDOWS (113426997b13368d135dc4a57f5f8bec)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-05-19 23:05:305 INFO  InventoryPage :49 - Clicking On Shipping cart [[ChromeDriver: chrome on WINDOWS (113426997b13368d135dc4a57f5f8bec)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-19 23:05:434 INFO  CartPage :25 - Clicking On Checkout button [[ChromeDriver: chrome on WINDOWS (113426997b13368d135dc4a57f5f8bec)] -> xpath: //button[@id='checkout']]
+2022-05-19 23:05:22 INFO  CheckOutPage :48 - Enter first name Harry last name Messi zip code 100-200Harry
+2022-05-19 23:05:157 INFO  CheckOutPage :53 - Clicking On Continue button [[ChromeDriver: chrome on WINDOWS (113426997b13368d135dc4a57f5f8bec)] -> xpath: //input[@id='continue']]
+2022-05-19 23:05:387 INFO  CheckOutPage2 :25 - Clicking On finish button [[ChromeDriver: chrome on WINDOWS (113426997b13368d135dc4a57f5f8bec)] -> xpath: //button[@id='finish']]
+2022-05-19 23:05:440 INFO  CheckOutComplete :24 - Getting thank you text [[ChromeDriver: chrome on WINDOWS (113426997b13368d135dc4a57f5f8bec)] -> xpath: //div[@id='checkout_complete_container']]
